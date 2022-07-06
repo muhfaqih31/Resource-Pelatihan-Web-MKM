@@ -1,0 +1,13 @@
+Control state -> pengambilan keputusan
+
+if -> kondisi 1
+else if -> kondisi 2
+else -> kondisi selain dari if dan else if
+
+Komparator
+---------------
+
+<, <=, >, >=, ==
+
+
+

@@ -1,0 +1,105 @@
+html {
+  scroll-behavior: smooth;
+}
+
+.navbar-nav {
+  margin-left: auto;
+}
+
+.navbar-brand {
+  font-size: 2rem;
+  font-weight: 900;
+  font-family: 'Montserrat Alternates', sans-serif;
+}
+
+.nav-item {
+  padding: 0 18px;
+  color:#fff;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+}
+
+.container-fluid {
+  padding:7% 15%;
+}
+
+.foto-orang {
+  width: 300px;
+  height: 300px;
+}
+
+.birthday-gift {
+  width: 100%;
+}
+
+h1 {
+  margin-top: 1rem;
+  font-size: 2.5rem;
+  font-family: 'Montserrat Alternates', sans-serif;
+  font-weight: 900;
+  color: #0F7173;
+}
+
+
+p {
+  font-family: 'Inter', sans-serif;
+}
+
+.colored-section {
+  background-color:  #0F7173;
+}
+
+#doa {
+  position: relative;
+}
+
+.feature-box {
+  padding: 4.5%;
+}
+
+.feature-title {
+  font-size: 1.5rem;
+  font-weight: 900;
+  color:#fff;
+}
+
+
+.icon {
+  color:rgb(238,238,238);
+  margin-bottom: 1rem;
+}
+
+.icon:hover {
+  color:#fff;
+}
+
+#doa p {
+  color:#fff;
+  font-size: 1rem;
+}
+
+.pesan-img {
+  width: auto;
+  height: 500px;
+  max-height: 300px;
+}
+
+.pesan-text {
+  font-size: 2rem;
+  line-height: 1.5;
+  color: #0F7173;
+}
+
+.carousel-control-prev-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%230F7173' viewBox='0 0 8 8'%3E%3Cpath d='M5.25 0l-4 4 4 4 1.5-1.5-2.5-2.5 2.5-2.5-1.5-1.5z'/%3E%3C/svg%3E");
+}
+
+.carousel-control-next-icon {
+  background-image: url("data:image/svg+xml;charset=utf8,%3Csvg xmlns='http://www.w3.org/2000/svg' fill='%230F7173' viewBox='0 0 8 8'%3E%3Cpath d='M2.75 0l-1.5 1.5 2.5 2.5-2.5 2.5 1.5 1.5 4-4-4-4z'/%3E%3C/svg%3E");
+}
+
+#pengirim {
+  color:#fff;
+}

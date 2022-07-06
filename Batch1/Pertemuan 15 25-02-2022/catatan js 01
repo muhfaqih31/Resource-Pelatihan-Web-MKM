@@ -1,0 +1,26 @@
+Variabel -> digunakan untuk menyimpan nilai (string, int, float, dll) jika sewaktu waktu digunakan
+
+tipe data:
+string -> kumpulan kata
+int -> bilangan bulat
+float -> bilangan desimal / bilangan koma
+
+console.log -> keluaran pesan console web (digunakan untuk debug web)
+
+debug -> kegiatan mencari bug dalam web
+
+JavaScript jalan berurutan
+
+case-sensitive -> penulisan huruf besar dan kecil dibedakan
+
+aturan penamaan variabel:
+-tidak mengandung spasi 
+- harus dimulai huruf, underscore (_), dan tanda dollar
+- tidak boleh memakai kata - kata yang sudah ada di javascript (reserved words) -> https://www.w3schools.com/js/js_reserved.asp
+
+string concatenation -> menggabungkan string
+
+nama_variabel.slice -> untuk memotong string
+
+
+

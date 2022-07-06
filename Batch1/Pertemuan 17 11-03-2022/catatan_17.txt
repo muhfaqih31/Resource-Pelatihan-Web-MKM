@@ -1,0 +1,79 @@
+function / fungsi -> sekumpulan kode yang ditulis untuk menyelesaikan masalah tertentu.
+
+sintaks fungsi:
+
+function nama_fungsi() {
+		
+}
+
+putBeeper() -> kasih tanda
+turnLeft() -> belok kiri
+turnRight() -> belok kanan
+move() -> bergerak()
+
+
+Fungsi Karel IDE:
+function main() {
+   kasih_tanda_kanan();
+   atas_belok_kiri();
+   kasih_tanda_kiri();
+   atas_belok_kanan();
+   kasih_tanda_kanan();
+   atas_belok_kiri();
+   kasih_tanda_kiri();
+}
+
+function kasih_tanda_kanan(){
+   putBeeper();
+   move();
+   move();
+   putBeeper();
+   move();
+   move();
+   putBeeper();
+}
+
+
+function atas_belok_kiri() {
+   turnLeft();
+   move();
+   turnLeft();
+   
+}
+
+function kasih_tanda_kiri() {
+  move();
+  putBeeper();
+  move();
+  move();
+  putBeeper();
+  move();
+}
+
+function atas_belok_kanan() {
+   turnRight();
+   move();
+   turnRight();
+}
+
+
+
+di fungsi mempunya yang namanya parameter dan argumen
+
+function nama_fungsi(parameter1, parameter2,.....) {
+
+}
+
+function tambah(10, 5)
+10 dan 5 itu argumen
+
+
+paramater -> nama variabel di dalam kurung fungsi
+
+argumen -> value atau nilai yang diberikan ke dalam kurung
+
+bisa tanpa parameter, bisa dengan parameter dengan jumlah parameter tidak terbatas
+
+tanpa parameter -> tidak ada nilai return
+
+return -> nilai yang dikembalikan fungsi
