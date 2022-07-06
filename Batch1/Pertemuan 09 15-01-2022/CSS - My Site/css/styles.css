@@ -1,0 +1,74 @@
+body {
+  margin:0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'The Nautigal', cursive;
+  color:#6c8c9b;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Inter', sans-serif;
+  font-weight: normal;
+  color:#6c8c9b;
+}
+
+h3 {
+  font-family: 'Inter', sans-serif;
+  color:#6c8c9b;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  background-color: #96ACB7;
+}
+
+.top-cloud {
+  position: absolute;
+  right:300px;
+  top:40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom:330px;
+  left:250px;
+}
+
+.foto-saya {
+  border-radius: 50%;
+}
+
+.middle-container {
+  padding: 100px 0;
+}
+
+hr {
+  border: dotted #6c8c9b 6px;
+  border-bottom: none;
+  width: 4%;
+  margin:100px auto;
+  text-decoration: none;
+}
+
+.skill-row {
+  width: 50%;
+  margin:100px auto;
+  text-align: left;
+}
+
+.marathon {
+  width: 25%;
+  float:left;
+  margin-right: 30px;
+}
+
+.hacking {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}

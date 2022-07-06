@@ -1,0 +1,32 @@
+body {
+  margin:0 auto;
+  text-align: center;
+}
+
+h1 {
+  font-size: 5.625rem;
+  font-family: 'The Nautigal', cursive;
+}
+
+h2 {
+  font-size: 2rem;
+  font-family: 'Inter', sans-serif;
+}
+
+.top-container {
+  padding-top: 100px;
+  position: relative;
+  background-color: #96ACB7;
+}
+
+.top-cloud {
+  position: absolute;
+  right:300px;
+  top:40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  bottom:330px;
+  left:250px;
+}
